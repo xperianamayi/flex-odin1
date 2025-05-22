@@ -191,6 +191,10 @@ body{
 }
 .fourth-section button {
     padding: 18px 36px;
+    color:white;
+    background-color: #3882F6;
+    border:2px solid white;
+    border-radius: 20px;
 
 }
    
